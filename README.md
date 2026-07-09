@@ -31,7 +31,7 @@ L'implementazione è interamente realizzata in Wolfram Mathematica utilizzando p
 
 ## Esecuzione
 
-Aprire il file `progA4.wl` in Wolfram Mathematica ed eseguire uno dei seguenti comandi.
+Aprire il file `progettoA4.wl` in Wolfram Mathematica ed eseguire uno dei seguenti comandi.
 
 ### Esempio toy
 
